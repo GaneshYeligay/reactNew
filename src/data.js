@@ -21,7 +21,7 @@ export const stockData = [
         company: "Sunrun Inc",
         ticker: "RUN",
         stockPrice: "9.87 USD",
-        timeElapsed: "4 sec ago",
+        timeElapsed: "5 sec ago",
     },
     {
         company: "Adobe Inc",
